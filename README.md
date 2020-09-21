@@ -12,3 +12,7 @@ Use the power of machine learning to know in an instant what people think about 
 3. Fork the project and clone it to your local machine.
 4. In the terminal, change directory to the one that contains the project.
 5. Run  `pod install`  to be able to build locally.
+6. Create an account as a twitter developer and obtain your own consumer API key and consumer secret API key.
+7. Change the strings in the swifter constant using your own Twitter API keys.
+# If having problems with Swifter
+Delete the Swifter file in the files inspector and replace it with the one from the clone of the git repository:  [Swifter](https://github.com/mattdonnelly/Swifter) then embed the iOS.framework.
