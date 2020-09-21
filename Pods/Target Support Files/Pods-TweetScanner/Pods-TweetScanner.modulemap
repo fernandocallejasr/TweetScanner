@@ -1,0 +1,6 @@
+framework module Pods_TweetScanner {
+  umbrella header "Pods-TweetScanner-umbrella.h"
+
+  export *
+  module * { export * }
+}
